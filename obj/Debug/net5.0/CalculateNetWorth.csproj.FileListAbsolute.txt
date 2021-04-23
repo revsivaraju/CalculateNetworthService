@@ -1,0 +1,60 @@
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\appsettings.json
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.exe
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.deps.json
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.runtimeconfig.json
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.runtimeconfig.dev.json
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\ref\CalculateNetWorth.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.pdb
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csprojAssemblyReference.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.AssemblyInfoInputs.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.AssemblyInfo.cs
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csproj.CoreCompileInputs.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\staticwebassets\CalculateNetWorth.StaticWebAssets.Manifest.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\staticwebassets\CalculateNetWorth.StaticWebAssets.xml
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\scopedcss\bundle\CalculateNetWorth.styles.css
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.RazorTargetAssemblyInfo.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csproj.CopyComplete
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\ref\CalculateNetWorth.dll
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.pdb
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.genruntimeconfig.cache
+C:\Users\Venky\source\repos\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\ref\CalculateNetWorth.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\CalculateNetWorth.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\staticwebassets\CalculateNetWorth.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\staticwebassets\CalculateNetWorth.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\scopedcss\bundle\CalculateNetWorth.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\ref\CalculateNetWorth.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CalculateNetWorth\CalculateNetWorth\obj\Debug\net5.0\CalculateNetWorth.csprojAssemblyReference.cache
