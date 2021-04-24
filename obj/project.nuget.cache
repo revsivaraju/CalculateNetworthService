@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LVe3Z3pIyiRGlrh74JxNwOGTr78U2DWB9UgNF7s+3Wc0KamnmkJOKkDCQIjWOEmJhHaUk/28IR1OvWfVk+Ds1A==",
+  "dgSpecHash": "flAmtxTGvHVruHVbWE6Dk1IJI+ijdt7lnU2d69R+i6kHIkvmyp6DrgVtx+Y6SHqlpK88+pjCjusGW20FQi5eIA==",
   "success": true,
-  "projectFilePath": "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth.csproj",
+  "projectFilePath": "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\CalculateNetWorth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MY PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\MY PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MY PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\MY PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\MY PC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.2\\swashbuckle.aspnetcore.6.1.2.nupkg.sha512",
     "C:\\Users\\MY PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.2\\swashbuckle.aspnetcore.swagger.6.1.2.nupkg.sha512",

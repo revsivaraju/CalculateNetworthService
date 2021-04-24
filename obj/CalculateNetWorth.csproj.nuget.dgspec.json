@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth.csproj": {}
+    "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\CalculateNetWorth.csproj": {}
   },
   "projects": {
-    "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth.csproj": {
+    "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\CalculateNetWorth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth.csproj",
+        "projectUniqueName": "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\CalculateNetWorth.csproj",
         "projectName": "CalculateNetWorth",
-        "projectPath": "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth.csproj",
+        "projectPath": "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\CalculateNetWorth.csproj",
         "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Portfolio-Management\\CalculateNetWorth\\CalculateNetWorth\\CalculateNetWorth\\obj\\",
+        "outputPath": "C:\\Users\\MY PC\\Desktop\\CalculateNetworthService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
