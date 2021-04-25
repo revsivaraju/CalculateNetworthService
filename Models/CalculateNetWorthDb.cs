@@ -11,18 +11,26 @@ namespace CalculateNetWorth.Models
     {
         public static List<StockTransactionDetails> stdList = new List<StockTransactionDetails>
        {
-           new StockTransactionDetails{TStockId=1,PortfolioId=1,StockName="ABC",StockCount=10,saleStatus=true},
-           new StockTransactionDetails{TStockId=2,PortfolioId=1,StockName="DEF",StockCount=10,saleStatus=true},
-           new StockTransactionDetails{TStockId=3,PortfolioId=3,StockName="GHI",StockCount=10,saleStatus=true},
-           new StockTransactionDetails{TStockId=4,PortfolioId=4,StockName="JKL",StockCount=10,saleStatus=true}
+           new StockTransactionDetails{TStockId=1,PortfolioId=1,StockName="HDFC",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=2,PortfolioId=1,StockName="CDSL",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=3,PortfolioId=3,StockName="Pidilite",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=4,PortfolioId=2,StockName="SBI",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=5,PortfolioId=3,StockName="SBI",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=6,PortfolioId=2,StockName="HDFC",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=7,PortfolioId=1,StockName="SBI",StockCount=10,saleStatus=true},
+           new StockTransactionDetails{TStockId=8,PortfolioId=2,StockName="CDSL",StockCount=10,saleStatus=true}
        };
 
         public static List<MutualFundTransactionDetails> mtdList = new List<MutualFundTransactionDetails>
         {
-           new MutualFundTransactionDetails{TMutualId=1,PortfolioId=1,MutualFundName="ABC",MutualFundCount=10,saleStatus=true},
-           new MutualFundTransactionDetails{TMutualId=2,PortfolioId=1,MutualFundName="DEF",MutualFundCount=10,saleStatus=true},
-           new MutualFundTransactionDetails{TMutualId=3,PortfolioId=3,MutualFundName="GHI",MutualFundCount=10,saleStatus=true},
-           new MutualFundTransactionDetails{TMutualId=4,PortfolioId=4,MutualFundName="JKL",MutualFundCount=10,saleStatus=true}
+           new MutualFundTransactionDetails{TMutualId=1,PortfolioId=1,MutualFundName="Vanguard",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=2,PortfolioId=1,MutualFundName="Fidelity",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=3,PortfolioId=3,MutualFundName="ICICI",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=4,PortfolioId=2,MutualFundName="Axis",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=5,PortfolioId=2,MutualFundName="ICICI",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=6,PortfolioId=3,MutualFundName="Vanguard",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=7,PortfolioId=3,MutualFundName="Fidelity",MutualFundCount=10,saleStatus=true},
+           new MutualFundTransactionDetails{TMutualId=8,PortfolioId=1,MutualFundName="Axis",MutualFundCount=10,saleStatus=true}
 
 
         };
@@ -33,7 +41,7 @@ namespace CalculateNetWorth.Models
             {
                 using (var httpClient = new HttpClient())
                 {
-                    using (var response = await httpClient.GetAsync("http://localhost:45789/api/DailySharePrice/" + item.StockName))
+                    using (var response = await httpClient.GetAsync("http://13.89.113.158/api/DailySharePrice/" + item.StockName))
                     {
                         string apiResponse = await response.Content.ReadAsStringAsync();
                         var stockObj = JsonConvert.DeserializeObject<DailyStockDetails>(apiResponse);
@@ -50,7 +58,7 @@ namespace CalculateNetWorth.Models
             {
                 using (var httpClient = new HttpClient())
                 {
-                    using (var response = await httpClient.GetAsync("http://localhost:50374/api/DailyMutualFundNav/" + item.MutualFundName))
+                    using (var response = await httpClient.GetAsync("http://52.154.50.148/api/DailyMutualFundNav/" + item.MutualFundName))
                     {
                         string apiResponse = await response.Content.ReadAsStringAsync();
                         var mutualFundObj = JsonConvert.DeserializeObject<MutualFundDetail>(apiResponse);
