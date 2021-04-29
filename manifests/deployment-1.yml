@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "calcnetworth-210a"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "calcnetworth-210a"
+  template:
+    metadata:
+      labels:
+        app: "calcnetworth-210a"
+    spec:
+      containers:
+        - name: "calcnetworth-210a"
+          image: "calccnetworth.azurecr.io/calcnetworth"
+          ports:
+          - containerPort: 80
